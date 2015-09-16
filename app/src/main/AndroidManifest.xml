@@ -24,6 +24,22 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="ashwiniyer.tapsurprise.HomeScreen" />
         </activity>
+        <activity
+            android:name=".Lefty"
+            android:label="@string/title_activity_lefty"
+            android:parentActivityName=".MainActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="ashwiniyer.tapsurprise.MainActivity" />
+        </activity>
+        <activity
+            android:name=".Righty"
+            android:label="@string/title_activity_righty"
+            android:parentActivityName=".MainActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="ashwiniyer.tapsurprise.MainActivity" />
+        </activity>
     </application>
 
 </manifest>

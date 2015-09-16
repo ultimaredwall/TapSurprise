@@ -5,4 +5,6 @@
     <string name="action_settings">Settings</string>
     <string name="Title">Tap Surprise!</string>
     <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_lefty">Lefty</string>
+    <string name="title_activity_righty">Righty</string>
 </resources>
